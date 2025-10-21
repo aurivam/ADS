@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\projetoads\\projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\projetoads\\projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\projetoads\\projetoads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoADS\\Program.cs",
+              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\Program.cs",
+              "RelativeToolTip": "ProjetoADS\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:49:34.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ProjetoADS\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs*",
+              "RelativeToolTip": "ProjetoADS\\frmLogin.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:45:24.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ProjetoADS\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs [Design]*",
+              "RelativeToolTip": "ProjetoADS\\frmLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:45:07.302Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

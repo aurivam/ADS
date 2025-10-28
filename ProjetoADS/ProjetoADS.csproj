@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmcliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcliente.Designer.cs">
+      <DependentUpon>frmcliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmforncedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmforncedor.Designer.cs">
+      <DependentUpon>frmforncedor.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +70,18 @@
     <Compile Include="frmMenuPrincipal.Designer.cs">
       <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmnotafiscal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmnotafiscal.Designer.cs">
+      <DependentUpon>frmnotafiscal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmproduto.Designer.cs">
+      <DependentUpon>frmproduto.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmsplash.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +90,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmcliente.resx">
+      <DependentUpon>frmcliente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>

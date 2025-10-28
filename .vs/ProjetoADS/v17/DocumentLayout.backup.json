@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\",
+  "WorkspaceRootPath": "C:\\Users\\PcAuri\\source\\repos\\ADS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\projetoads\\projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\ads\\projetoads\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\projetoads\\projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\ads\\projetoads\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\projetoads\\projetoads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\ads\\projetoads\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|c:\\users\\pcauri\\source\\repos\\ads\\projetoads\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF600F7-54FD-4F6C-AF25-1FDE566AACE8}|ProjetoADS\\ProjetoADS.csproj|solutionrelative:projetoads\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoADS\\Program.cs",
-              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\Program.cs",
-              "RelativeToolTip": "ProjetoADS\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAApAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "frmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "ProjetoADS\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmMenuPrincipal.cs",
+              "RelativeToolTip": "ProjetoADS\\frmMenuPrincipal.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:49:34.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs",
-              "RelativeDocumentMoniker": "ProjetoADS\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs*",
-              "RelativeToolTip": "ProjetoADS\\frmLogin.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:45:24.365Z",
+              "WhenOpened": "2025-10-28T22:56:42.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs",
-              "RelativeDocumentMoniker": "ProjetoADS\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ProjetoADS\\ProjetoADS\\frmLogin.cs [Design]*",
-              "RelativeToolTip": "ProjetoADS\\frmLogin.cs [Design]*",
+              "Title": "frmMenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "ProjetoADS\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmMenuPrincipal.cs [Design]",
+              "RelativeToolTip": "ProjetoADS\\frmMenuPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:45:07.302Z",
+              "WhenOpened": "2025-10-28T22:56:09.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmcliente.cs",
+              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmcliente.cs",
+              "RelativeDocumentMoniker": "ProjetoADS\\frmcliente.cs",
+              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmcliente.cs",
+              "RelativeToolTip": "ProjetoADS\\frmcliente.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:42:31.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmcliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmcliente.cs",
+              "RelativeDocumentMoniker": "ProjetoADS\\frmcliente.cs",
+              "ToolTip": "C:\\Users\\PcAuri\\source\\repos\\ADS\\ProjetoADS\\frmcliente.cs [Design]",
+              "RelativeToolTip": "ProjetoADS\\frmcliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:28:18.206Z",
               "EditorCaption": " [Design]"
             }
           ]

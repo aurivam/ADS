@@ -11,3 +11,17 @@ C:\Users\PcAuri\source\repos\ProjetoADS\ProjetoADS\obj\Debug\ProjetoADS.pdb
 C:\Users\PcAuri\source\repos\ProjetoADS\ProjetoADS\obj\Debug\ProjetoADS.exe.config
 C:\Users\PcAuri\source\repos\ProjetoADS\ProjetoADS\obj\Debug\ProjetoADS.frmLogin.resources
 C:\Users\PcAuri\source\repos\ProjetoADS\ProjetoADS\obj\Debug\ProjetoADS.frmMenuPrincipal.resources
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\bin\Debug\ProjetoADS.exe.config
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\bin\Debug\ProjetoADS.exe
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\bin\Debug\ProjetoADS.pdb
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.csproj.AssemblyReference.cache
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.exe.config
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.frmLogin.resources
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.frmMenuPrincipal.resources
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.frmsplash.resources
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.Properties.Resources.resources
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.csproj.GenerateResource.cache
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.csproj.CoreCompileInputs.cache
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.exe
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.pdb
+C:\Users\PcAuri\Source\Repos\ADS\ProjetoADS\obj\Debug\ProjetoADS.frmcliente.resources
